@@ -4,7 +4,7 @@
 
 Interested in UI and interface design,\
 particularly for Web applications.\
-Find my homepage at [bacur.xyz](https://bacur.xyz)
+Find my homepage at [bacur.xyz](https://bacur.xyz).
 
 ## UX Team Project
 
@@ -12,4 +12,4 @@ Coming soon.
 
 ## UX Journal
 
-[Journal One](journal/)
+[Journal I: FontForge & Error Recovery](journal/j01.md)
